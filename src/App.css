@@ -1,0 +1,11 @@
+.carousel-caption {
+    
+    font-size: 23px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+}
+
+h5 {
+    font-size: bold;
+}
