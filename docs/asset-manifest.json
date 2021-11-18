@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/seb-scrum/static/css/main.5f6aea97.chunk.css",
+    "main.js": "/seb-scrum/static/js/main.a08c161c.chunk.js",
+    "main.js.map": "/seb-scrum/static/js/main.a08c161c.chunk.js.map",
+    "runtime-main.js": "/seb-scrum/static/js/runtime-main.d21848bb.js",
+    "runtime-main.js.map": "/seb-scrum/static/js/runtime-main.d21848bb.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/seb-scrum/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.e8369b42.chunk.js": "/seb-scrum/static/js/2.e8369b42.chunk.js",
+    "static/js/2.e8369b42.chunk.js.map": "/seb-scrum/static/js/2.e8369b42.chunk.js.map",
+    "static/js/3.c4ef051b.chunk.js": "/seb-scrum/static/js/3.c4ef051b.chunk.js",
+    "static/js/3.c4ef051b.chunk.js.map": "/seb-scrum/static/js/3.c4ef051b.chunk.js.map",
+    "index.html": "/seb-scrum/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/seb-scrum/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.5f6aea97.chunk.css.map": "/seb-scrum/static/css/main.5f6aea97.chunk.css.map",
+    "static/js/2.e8369b42.chunk.js.LICENSE.txt": "/seb-scrum/static/js/2.e8369b42.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/seb-scrum/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d21848bb.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.e8369b42.chunk.js",
+    "static/css/main.5f6aea97.chunk.css",
+    "static/js/main.a08c161c.chunk.js"
+  ]
+}
